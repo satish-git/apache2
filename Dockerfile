@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu
 MAINTAINER satish verma  <satishsverma5@gmail.com>
 
 RUN \
